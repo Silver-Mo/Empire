@@ -1,3 +1,7 @@
+#check this yt vid for a tutorial on how to intall and use empire https://www.youtube.com/watch?v=Mif2KyhA6I4
+
+
+
 <div align="center">
 
 ![Empire](https://user-images.githubusercontent.com/20302208/70022749-1ad2b080-154a-11ea-9d8c-1b42632fd9f9.jpg)

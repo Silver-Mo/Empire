@@ -1,4 +1,4 @@
-#check this yt vid for a tutorial on how to intall and use empire https://www.youtube.com/watch?v=Mif2KyhA6I4
+check this yt vid for a tutorial on how to intall and use empire https://www.youtube.com/watch?v=Mif2KyhA6I4
 
 
 
